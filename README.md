@@ -4,10 +4,10 @@
 Resize images the smart way using the content-aware scaling algorithm (by making
 use of the seam carving algorithm).
 
-There are a couple of options to resize an image: you can crop it but then you
-also lose a part of the image, while squeezing pixels into less horizontal or
-vertical space is most likely also not wanted due to the distortion that occurs.
-The approach of this algorithm consists of removing less important parts of the
+There are a couple of options for resizing an image: you can crop it, but then
+you also lose a part of the image. Squeezing pixels into less horizontal or
+vertical space is also most likely not wanted due to the distortion that occurs.
+This algorithm's approach consists of removing less important parts of the
 image, circumventing previously mentioned disadvantages.
 
 Short video of resizing an image using the described technique:
