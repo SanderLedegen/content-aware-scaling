@@ -12,7 +12,7 @@ image, circumventing previously mentioned disadvantages.
 
 Short video of resizing an image using the described technique:
 
-<video src="https://sanderledegen.github.io/content-aware-scaling/resizing.mp4"></video>
+<video src="https://github.com/user-attachments/assets/07281468-ebc1-4e5e-be7e-8117ddc998c3"></video>
 
 [Check out the demo](https://sanderledegen.github.io/content-aware-scaling/)
 
