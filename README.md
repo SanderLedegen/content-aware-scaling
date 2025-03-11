@@ -11,6 +11,7 @@ The approach of this algorithm consists of removing less important parts of the
 image, circumventing previously mentioned disadvantages.
 
 Short video of resizing an image using the described technique:
+
 <video src="https://sanderledegen.github.io/content-aware-scaling/resizing.mp4"></video>
 
 [Check out the demo](https://sanderledegen.github.io/content-aware-scaling/)
