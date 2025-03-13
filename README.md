@@ -1,6 +1,11 @@
 # Content-aware scaling
 
 ## Description
+
+**For a more lengthy explanation, you can read the
+[post](https://sanderl.be/posts/content-aware-scaling/) I wrote about this on my
+website.**
+
 Resize images the smart way using the content-aware scaling algorithm (by making
 use of the seam carving algorithm).
 
